@@ -1,0 +1,31 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: |
+      cd backend && npm install &&
+      cd ../frontend && npm install
+    command: |
+      docker-compose up --build
+
+ports:
+  - port: 3000
+    onOpen: open-preview
+    description: Backend API
+  - port: 8080
+    onOpen: open-preview
+    description: Frontend App
+  - port: 5432
+    onOpen: ignore
+    description: PostgreSQL Database
+
+github:
+  prebuilds:
+    master: true
+    branches: true
+    pullRequests: true
+
+vscode:
+  extensions:
+    - vue.volar
+    - bradlc.vscode-tailwindcss

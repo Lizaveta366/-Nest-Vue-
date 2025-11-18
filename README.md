@@ -26,3 +26,16 @@ docker-compose up --build
 cd backend
 npm install
 npm run seed
+
+# Load Testing Application
+
+NestJS + Vue 3 + PostgreSQL with Docker
+
+## Quick Start with GitPod
+
+[![Open in GitPod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/ВАШ_USERNAME/load-test-app)
+
+## Local Development
+
+```bash
+docker-compose up --build
