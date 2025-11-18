@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="562e20f9-d23d-4216-a9f0-35812dba30cc" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/сервис на Nest + фронт на Vue + нагрузка.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/seed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/src/app.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/src/items/dto/get-items-query.dto.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/src/items/item.entity.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/src/items/items.controller.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/src/items/items.module.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/src/items/items.service.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/src/main.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Docker Compose/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Frontend/vite.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="35eTDIz1EoAA8WkYk1jAhFOnWUV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-7e47963ff851-f0eec537fc84-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.23892.515" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="562e20f9-d23d-4216-a9f0-35812dba30cc" name="Changes" comment="" />
+      <created>1763469419991</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763469419991</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
